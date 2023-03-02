@@ -1,1 +1,1 @@
-# CHAD
+# CHAD: Charlotte Anomaly Dataset

@@ -1,1 +1,3 @@
 # CHAD: Charlotte Anomaly Dataset
+
+This repository will be update soon ...

@@ -6,14 +6,14 @@
 CHAD is high-resolution, multi-camera dataset for surveillance video anomaly detection. It includes bounding box, Re-ID, and pose annotations, as well as frame-level anomaly labels, dividing all frames into two groups of anomalous or normal. You can find the paper in the following link: [**CHAD: Charlotte Anomaly Dataset**](https://arxiv.org/abs/2212.09258 "CHAD Paper").
 
 <p align="center">
-  <img src="./imgs/4_cameras.jpg" alt="CHAD_Cameras_POV" width="80%">
+  <img src="./imgs/4_cameras.jpg" alt="CHAD_Cameras_POV" width="60%">
 </p>
 <p align="center">
   CHAD cameras' point-of-view
 </p>
 
 <p align="center">
-  <img src="./imgs/top_view.png" alt="CHAD_Cameras_Top" width="80%">
+  <img src="./imgs/top_view.png" alt="CHAD_Cameras_Top" width="60%">
 </p>
 <p align="center">
   CHAD cameras' positions

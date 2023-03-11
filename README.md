@@ -50,7 +50,6 @@ We have used 4 cameras to record videos from a parkinglot. The first three are F
 For detailed infomration please refer to the paper.
 
 ## How to Download The Dataset
----------------
 
 For downloading the videos, please use the following link:
 
@@ -72,7 +71,6 @@ CHAD/
 ```
 
 ## Structure of Videos
---------------------
 
 CHAD consists of 412 separate high-quality videos adding up to approximately 1.15M frames, out of which 1,09M frames are normal, and 59K are anomalous. 
 
@@ -93,7 +91,6 @@ The existance of anomalous frames identifies if something anomalous happens in t
 _--Please note that <existance_of_anomalous_frame> only indicates whether a video has anomalous frames or not. You can use **anomaly_labels** for frame level labels for anomaly.--_
 
 ## Structure of Annotations
---------------------
 
 Each video has its own dedicated annotation file in .pkl format. 
 
@@ -125,7 +122,7 @@ print(my_dict)
 ```
 
 ## Structure of Anomaly Labels
-------------
+
 Anomaly labels are in .npy format.
 
 They exactly follow the same naming pattern, and we have one file per each video. 
@@ -146,7 +143,6 @@ print(data)
 ```
 
 ## Structure of The Splits
--------------------------------
 
 There are two different splits for CHAD.
 
@@ -166,7 +162,7 @@ There are two different splits for CHAD.
  Each file contains the name of the files for the split.
 
  ## Citation
--------------
+
 If you find our dataset helpful please use the following BibTeX to cite us:
 
 ```

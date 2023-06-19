@@ -102,7 +102,7 @@ The files follow the same naming pattern as the videos, and it has a dictionary 
 {
   "Frame_number": 
   {
-    "Person_ID": array([[Boudning_Box], [Keypoints]])
+    "Person_ID": [array([Boudning_Box]), array([Keypoints])]
   }
 }
 ```

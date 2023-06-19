@@ -107,6 +107,8 @@ The files follow the same naming pattern as the videos, and it has a dictionary 
 }
 ```
 
+Bounding boxes are in XYWH format, and keypoints are in XYC format, where X and Y are coordinates, W is width, H is height, and C is confidence.
+
 You can use the following code snippet to read the pickle files:
 
 ```python

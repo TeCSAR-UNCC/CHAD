@@ -168,10 +168,12 @@ There are two different splits for CHAD.
 If you find our dataset helpful please use the following BibTeX to cite us:
 
 ```
-@article{pazho2022chad,
+@inproceedings{danesh2023chad,
   title={CHAD: Charlotte Anomaly Dataset},
-  author={Pazho, Armin Danesh and Noghre, Ghazal Alinezhad and Ardabili, Babak Rahimi and Neff, Christopher and Tabkhi, Hamed},
-  journal={arXiv preprint arXiv:2212.09258},
-  year={2022}
+  author={Danesh Pazho, Armin and Alinezhad Noghre, Ghazal and Rahimi Ardabili, Babak and Neff, Christopher and Tabkhi, Hamed},
+  booktitle={Scandinavian Conference on Image Analysis},
+  pages={50--66},
+  year={2023},
+  organization={Springer}
 }
 ```

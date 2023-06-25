@@ -53,11 +53,13 @@ For detailed infomration please refer to the paper.
 
 For downloading the videos, please use the following link:
 
-[**CHAD_Videos**](https://drive.google.com/file/d/13am4hfhicErcozAYgkmQm02_K-cCmtkQ/view?usp=sharing "CHAD_Vidoes")
+[**Main Link: CHAD_Videos**](https://drive.google.com/file/d/13am4hfhicErcozAYgkmQm02_K-cCmtkQ/view?usp=sharing "CHAD_Vidoes")
+[**Mirror Link 1: CHAD_Videos**](https://drive.google.com/file/d/1G_gJmWcOKUDrMUC64A_dqrA1NTZvEyEA/view?usp=sharing "CHAD_Vidoes_Mirror_1")
 
 For downloading the annotations, anomaly labels, and splits, please use the following link:
 
-[**CHAD_Meta**](https://drive.google.com/file/d/1g01Ay86cuPmKGsrfxddxwA1uG_7bFFmu/view?usp=sharing "CHAD_Meta")
+[**Main Link: CHAD_Meta**](https://drive.google.com/file/d/1g01Ay86cuPmKGsrfxddxwA1uG_7bFFmu/view?usp=sharing "CHAD_Meta")
+[**Mirror Link 1: CHAD_Meta**](https://drive.google.com/file/d/1K3g_6irFJrhj93LFcOEN3TUCptB1KCQq/view?usp=sharing "CHAD_Meta_Mirror_1")
 
 The directory of the entire dataset has following simple structure:
 
